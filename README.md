@@ -1,2 +1,2 @@
-# robot-za-sledenje-rti
+# robot-za-sledenje-crti
 mehatronski sistemi

@@ -1,0 +1,29 @@
+QRE1113GR
+http://uk.farnell.com/fairchild-semiconductor/qre1113/opto-cplr-phototransistor-dip/dp/2322565
+
+KSC5019 NPN Epitaxial silicon transistor
+http://www.farnell.com/datasheets/2195017.pdf?_ga=1.266460878.1717627041.1488214545
+
+Longruner JY-MCU Arduino Bluetooth Wireless Serial Port Module LK35
+https://www.amazon.com/Phantom-YoYo-Arduino-Bluetooth-Wireless/dp/B009DZQ4MG
+
+Female Header: 1x4-Pin, 0.100" (2.54 mm)-uporabim za BT
+https://www.pololu.com/product/1014
+
+encoder
+https://www.pololu.com/product/3081
+
+Female Header: 1x16-Pin, 0.100" (2.54 mm)-rabim za encoder
+https://www.pololu.com/product/1031
+
+L293 motor controller
+http://www.farnell.com/datasheets/2020366.pdf?_ga=1.39965282.1717627041.1488214545
+
+motorèek
+https://www.pololu.com/product/3072
+
+stikalo
+http://si.farnell.com/erg-components/jsa4-1-g0/switch-jumper-1-way-spst-slide/dp/3289758
+
+battery holder
+http://si.farnell.com/keystone/1294/battery-holder-pcb-1-cell/dp/1650674

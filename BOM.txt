@@ -27,3 +27,9 @@ http://si.farnell.com/erg-components/jsa4-1-g0/switch-jumper-1-way-spst-slide/dp
 
 battery holder
 http://si.farnell.com/keystone/1294/battery-holder-pcb-1-cell/dp/1650674
+
+kroglica
+https://www.pololu.com/product/951
+
+holder motorèka
+https://www.pololu.com/product/989
